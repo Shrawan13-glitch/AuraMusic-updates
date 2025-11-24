@@ -1,1 +1,11 @@
-
+{
+  "update": {
+    "latestVersion": "0.0.2",
+    "downloadUrl": "https://example.com/download/myapp-1.3.0.apk",
+    "notes": [
+      "Improved performance",
+      "Added new dashboard",
+      "Fixed login issues"
+    ]
+  }
+}

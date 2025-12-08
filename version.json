@@ -1,12 +1,12 @@
 {
   "update": {
     "latestVersion": "2.0.0",
-    "downloadUrl": "https://github.com/shrynexEdu/AgriStudy-update/releases/download/v1.1/app-release.apk",
+    "downloadUrl": "https://shrynex.pages.dev/auramusic",
     "notes": [
       "Improved performance",
       "Added new dashboard",
       "Fixed login issues",
     ],
-    "isStrict": "false"
+    "isStrict": "true"
   }
 }

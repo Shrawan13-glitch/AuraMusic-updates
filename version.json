@@ -7,6 +7,6 @@
       "Added new dashboard",
       "Fixed login issues",
     ],
-    "isStrict": "true"
+    "isStrict": "false"
   }
 }

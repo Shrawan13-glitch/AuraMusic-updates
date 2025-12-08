@@ -5,7 +5,8 @@
     "notes": [
       "Improved performance",
       "Added new dashboard",
-      "Fixed login issues"
-    ]
+      "Fixed login issues",
+    ],
+    "isStrict": "true"
   }
 }

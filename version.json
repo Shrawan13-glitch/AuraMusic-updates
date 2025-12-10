@@ -1,12 +1,10 @@
 {
   "update": {
-    "latestVersion": "1.0.0",
+    "latestVersion": "1.5.0",
     "downloadUrl": "https://shrynex.pages.dev/auramusic",
     "notes": [
-      "Improved performance",
-      "Added new dashboard",
-      "Fixed login issues",
+      "This is a test update do not update"
     ],
-    "isStrict": "true"
+    "isStrict": "false"
   }
 }

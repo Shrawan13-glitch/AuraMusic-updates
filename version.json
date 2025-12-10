@@ -1,15 +1,10 @@
 {
   "update": {
-    "latestVersion": "1.5.0",
-    "downloadUrl": "https://gamejolt.com/get/build?game=1034952&build=1867105",
+    "latestVersion": "1.5.1",
+    "downloadUrl": "https://gamejolt.com/get/build?game=1034952&build=1867132",
     "notes": [
-      "added download feature.",
-      "improved performance.",
-      "added push notifications support.",
-      "removed timed lyrics feature (will be back in future updates).",
-      "fixed UI issues.",
-      "Improved library screen UI.",
-      "improved caching."
+      "Download issues Fixed",
+      "fixed logo popping up for no reason"
     ],
     "isStrict": "false"
   }

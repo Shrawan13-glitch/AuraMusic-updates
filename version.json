@@ -1,6 +1,6 @@
 {
   "update": {
-    "latestVersion": "1.9.0",
+    "latestVersion": "1.0.0",
     "downloadUrl": "https://gamejolt.com/get/build?game=1034952&build=1877499",
     "notes": [
       "⚠️ This update is mandatory due to a crash affecting the messages/notification screen.",

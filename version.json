@@ -1,15 +1,16 @@
 {
   "update": {
-    "latestVersion": "1.9.0",
-    "downloadUrl": "https://gamejolt.com/get/build?game=1034952&build=1877545",
+    "latestVersion": "2.0",
+    "downloadUrl": "https://gamejolt.com/get/build?game=1034952&build=1878768",
     "notes": [
-      "Added playlist creation",
-      "Added a messages section",
-      "⚠️ you might experience noticeable jitters during animations until next update.You can wait till the next update. Your call.",
-      "Synced playlists & liked music with account",
-      "Improved UI & loading experience",
-      "Search and Explore merged",
+      "added playback notifications",
+      "improved listening experience with RNAP",
+      "Added Playlist downloads",
+      "improved home screen",
+      "Improved performamce by switching to flashlists from flatlist",
+      "Improved animation and maintained animation smoothness.",
       "Customizable skip controls",
+      "Please make sure to sign in so that you dont loose your data. Just a precaution",
     ],
     "isStrict": "false"
   }

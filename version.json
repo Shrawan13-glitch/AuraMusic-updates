@@ -1,17 +1,9 @@
 {
   "update": {
-    "latestVersion": "2.0",
-    "downloadUrl": "https://gamejolt.com/get/build?game=1034952&build=1878768",
+    "latestVersion": "2.0.1",
+    "downloadUrl": "https://github.com/Shrawan13-glitch/AuramusicExpo/releases/download/v2/Auramusic-v2.0.apk",
     "notes": [
-      "fixed complaints from Harsh and Torrent Omega🫡",
-      "added playback notifications",
-      "improved listening experience with RNAP",
-      "Added Playlist downloads",
-      "improved home screen",
-      "Improved performamce by switching to flashlists from flatlist",
-      "Improved animation and maintained animation smoothness.",
-      "Customizable skip controls",
-      "Please make sure to sign in so that you dont loose your data. Just a precaution",
+      "this is just a test update for the new in app downloading feature please do not update",
     ],
     "isStrict": "false"
   }

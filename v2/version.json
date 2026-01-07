@@ -1,0 +1,16 @@
+{
+  "latestVersion": "2.1.0",
+  "releaseDate": "2026-01-15",
+  "isStrict": "false",
+  "notes": [
+    "New music discovery features",
+    "Performance improvements", 
+    "Bug fixes for playlist sync"
+  ],
+  "downloads": {
+    "universal": "https://releases.auramusic.app/v2.1.0/auramusic-universal.apk",
+    "arm64": "https://releases.auramusic.app/v2.1.0/auramusic-arm64.apk",
+    "arm32": "https://releases.auramusic.app/v2.1.0/auramusic-arm32.apk",
+    "x86_64": "https://releases.auramusic.app/v2.1.0/auramusic-x86_64.apk"
+  }
+}

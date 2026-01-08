@@ -1,12 +1,17 @@
 {
   "update": {
-    "latestVersion": "2.0.1",
-    "downloadUrl": "https://gamejolt.com/get/build?game=1034952&build=1882202",
+    "latestVersion": "2.1.0",
+    "downloadUrl": "https://github.com/Shrawan13-glitch/AuramusicExpo/releases/download/v2.1/universal.apk",
     "notes": [
-      "Added in app updates",
-      "Added playlist editing functionality",
-      "Made the Home screen simpler( Infinity Homeio Coming Soon. )"
-    ],
-    "isStrict": "false"
+  "Added smart cache management for downloaded songs",
+  "New cache controls added in Settings for better storage management",
+  "Introduced synced lyrics with offline caching support",
+  "Added built-in voice assistant with support for custom commands",
+  "Fixed sleep timer not working properly in the background",
+  "Migrated app to the new updater API (v2) for faster and smaller updates",
+  "General performance improvements and bug fixes"
+]
+,
+    "isStrict": "true"
   }
 }

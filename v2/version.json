@@ -1,20 +1,19 @@
 {
-  "latestVersion": "2.1.0",
+  "latestVersion": "3.0",
   "releaseDate": "2026-01-15",
   "isStrict": "false",
   "notes": [
-  "Added smart cache management for downloaded songs",
-  "New cache controls added in Settings for better storage management",
-  "Introduced synced lyrics with offline caching support",
-  "Added built-in voice assistant with support for custom commands",
-  "Fixed sleep timer not working properly in the background",
-  "Migrated app to the new updater API (v2) for faster and smaller updates",
-  "General performance improvements and bug fixes"
+  "Complete UI overhaul.",
+      "new Material Design",
+      "Fixed Streaming issues.",
+      "Fixed delays in fetching lyrics.",
+      "better and faster downloads.",
+      "cleaner smoother and better animations."
 ],
   "downloads": {
-    "universal": "https://github.com/Shrawan13-glitch/AuramusicExpo/releases/download/v2.1/universal.apk",
-    "arm64": "https://github.com/Shrawan13-glitch/AuramusicExpo/releases/download/v2.1/base-arm64_v8a.apk",
-    "arm32": "https://github.com/Shrawan13-glitch/AuramusicExpo/releases/download/v2.1/base-armeabi_v7a.apk",
-    "x86_64": "https://github.com/Shrawan13-glitch/AuramusicExpo/releases/download/v2.1/universal.apk"
+    "universal": "https://github.com/Shrawan13-glitch/AuramusicExpo/releases/download/v3.0/universal.apk",
+    "arm64": "https://github.com/Shrawan13-glitch/AuramusicExpo/releases/download/v3.0/universal.apk",
+    "arm32": "https://github.com/Shrawan13-glitch/AuramusicExpo/releases/download/v3.0/universal.apk",
+    "x86_64": "https://github.com/Shrawan13-glitch/AuramusicExpo/releases/download/v3.0/universal.apk"
   }
 }

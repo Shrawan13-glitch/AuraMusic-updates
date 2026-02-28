@@ -1,8 +1,9 @@
 {
   "update": {
-    "latestVersion": "2.1.0",
+    "latestVersion": "3.0.0",
     "downloadUrl": "https://github.com/Shrawan13-glitch/AuramusicExpo/releases/download/v2.1/universal.apk",
     "notes": [
+      "Just a test Update.",
   "Added smart cache management for downloaded songs",
   "New cache controls added in Settings for better storage management",
   "Introduced synced lyrics with offline caching support",
